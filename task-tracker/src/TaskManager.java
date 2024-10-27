@@ -21,6 +21,10 @@ public class TaskManager {
     private void loadTasks() {
         Path jsonPath = Paths.get(PATH);
         try {
+            if(!Files.exists(jsonPath)){
+                return;
+            }
+
             String jsonData = Files.readString(jsonPath);
 
             if (jsonData.length() == 0) {
