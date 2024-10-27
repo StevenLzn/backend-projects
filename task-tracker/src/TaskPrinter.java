@@ -15,6 +15,7 @@ public class TaskPrinter {
     }
 
     static private void printRows(List<Task> tasks, String emptyMessage) {
+
         if (tasks.isEmpty()) {
             System.out.println(emptyMessage);
         } else {

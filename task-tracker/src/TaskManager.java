@@ -32,6 +32,11 @@ public class TaskManager {
             }
 
             String tasksString = jsonData.substring(2, jsonData.length() - 2);
+
+            if (tasksString.length() == 0) {
+                return;
+            }
+
             String[] tasksListString = tasksString.split("},\\n\\{");
 
             Arrays.stream(tasksListString).forEach(taskJson -> {

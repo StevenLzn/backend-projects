@@ -1,5 +1,3 @@
 [
-{"id": "2", "description": "Buy groceries", "status": "DONE", "createdAt": "2024-10-19T20:51:22.866985900", "updatedAt": "2024-10-26T20:06:18.080314400"},
-{"id": "3", "description": "Buy groceries and cook dinner", "status": "DONE", "createdAt": "2024-10-19T20:51:28.446247400", "updatedAt": "2024-10-26T21:32:44.030432900"},
-{"id": "4", "description": "Buy groceries", "status": "TODO", "createdAt": "2024-10-19T20:51:34.952052200", "updatedAt": "2024-10-19T20:51:34.953044500"}
+
 ]
