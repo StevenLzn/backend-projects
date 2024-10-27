@@ -1,5 +1,7 @@
 # TaskCLI App
 
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 This is a command-line interface application to track and manage your tasks. You can add, update, list and change task
 statuses using the terminal. Tasks are saved in a JSON file, which helps with data persisting.
 
