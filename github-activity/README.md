@@ -18,10 +18,6 @@ This is a command-line interface application to list the recent activity of a Gi
    cd github-activity
    cd src
    ```
-2. **Compile source code:**
-   ```bash
-   javac GithubActivityCLI.java GithubActivityManager.java
-    ```
-3. **Use a command:**
+2. **Use a command:**
     ```bash
    java GithubActivityCLI <username>
