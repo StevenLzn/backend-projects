@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-projects.iml" filepath="$PROJECT_DIR$/.idea/backend-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github-activity/github-activity.iml" filepath="$PROJECT_DIR$/github-activity/github-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-tracker/task-tracker.iml" filepath="$PROJECT_DIR$/task-tracker/task-tracker.iml" />
+    </modules>
+  </component>
+</project>
